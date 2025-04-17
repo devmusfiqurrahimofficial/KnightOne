@@ -1,0 +1,345 @@
+ 
+ h1,h2,h3,h4,h5,h6,a,p{
+    font-family: "Nunito", sans-serif;
+
+ }
+ 
+ .nabvar{
+background-image: url(../img/1st.jpg);
+height: 700px;
+background-position: right;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+  }
+  nav{
+    backdrop-filter: blur(6px);
+
+  }
+#activebtn{
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 700;
+    display: inline-block;
+    margin-left: 10px;
+   transition: .5s;
+}
+#activebtn:hover{
+color: #fff;
+
+}
+.starting-btn{
+    margin-left: 40px;
+    background: #009961;
+    color: #fff;
+    border-radius: 50px;
+    padding: 8px 25px 9px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    display: inline-block;
+text-decoration: none;
+}
+.heading1{
+    padding-top: 170px;
+
+}
+.graphing1{
+    padding-top: 20px;
+}
+.about-using{
+padding-bottom: 20px;
+
+}
+.divider{
+width: 60px;
+height: 3px;
+background-color: #009961;
+}
+.iconing{
+    color: #009961;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.card{
+    padding: 60px 30px;
+    transition: all ease-in-out 0.3s;
+    background: #fefefe;
+    box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.1);
+    border-radius: 25pxpx;
+    border-bottom: 5px solid #fff;
+    transition: .5s;
+    
+}
+.card:hover{
+    transform: translateY(-10px);
+border-bottom: 5px solid #009961;
+.card-head{
+    color: #009961;
+}
+}
+.card-head{
+color: black;
+font-size: 30px;
+padding-top: 10px;
+transition: .5s;
+}
+.icon{
+    width: 64px;
+    height: 64px;
+    background: #009961;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    transition: ease-in-out 0.3s;
+    color: #fff;
+}
+.imain{
+    font-size: 28px;
+}
+.action{
+background-image: url(../img/2nd.jpg);
+padding-top: 80px;
+padding-bottom: 80px;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.action-btn{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+    background: #009961;
+    color: #fff;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.iconic{
+    font-size: 40px;
+  float: left;
+    color: #009961;
+    margin-right: 10px;
+}
+.ussu{
+    font-size: 25px;
+    font-weight: 500;
+   margin-left: 10px;
+   color: #848484;
+}
+.ugraph{
+    font-size: 15px;
+    color: #848484;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.project-margin-top{
+    margin-top: 100px;
+}
+.boxing{
+    height: 470px;
+background-image: url(../img/3rd.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.client-pic{
+    width: 150px;
+transition: .5s;
+}
+.client-pic:hover{
+    transform: scale(1.1);
+
+}
+
+.mizing{
+    padding: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid #e7e7e7;
+    border-left: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    border-top: 1px solid #e7e7e7;
+    overflow: hidden;
+    background: #fff;
+    height: 140px;
+}
+.counterbg{
+    height: 400px;
+    width: 100%;
+    background-image: url(../img/counts-bg.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+padding: 80px 0 60px 0;
+background-attachment: fixed;
+}
+.number1{
+    font-size: 48px;
+    display: block;
+    font-weight: 700;
+    color: #009961;
+}
+.cgraph1{
+    padding: 0;
+    margin: 0 0 20px 10;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+.port1{
+    width: 410px;
+}
+.port2{
+    width: 360px;
+}
+.port3{
+    width: 400px;
+}
+.port4{
+    margin-top: 20px;
+    width: 400px;
+}
+.port5{
+    width: 400px;
+}
+.port6{
+    width: 400px;
+}
+.port7{
+    margin-top: 10px;
+    width: 400px;
+}
+.port8{
+    margin-top: 10px;
+    width: 400px;
+}
+.port9{
+    margin-top: 10px;
+    width: 400px;
+}
+.port-listi li{
+display: inline;
+list-style: none;
+margin-left: 10px;
+}
+.port-listi li a{
+text-decoration: none;
+cursor: pointer;
+    display: inline-block;
+    padding: 8px 16px 10px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    color: #444444;
+    margin: 0 3px 10px 3px;
+    transition: all ease-in-out 0.3s;
+    background: #f4f4f4;
+    border-radius: 50px;
+}
+.port-listi li a:hover{
+background-color: #009961;
+color: #fff;
+}
+   .price-listi li{
+list-style: none;
+padding-bottom: 10px;
+   }
+   .price-listi li a{
+text-decoration: none;
+color: #434242;
+   }
+   .price-listi li .prici-lister{
+    color: red;
+   }
+   .buy-btn{
+    display: inline-block;
+    padding: 10px 40px 12px 40px;
+    border-radius: 50px;
+    border: 2px solid #009961;
+    color: #009961;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    transition: 0.3s;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 20px;
+   }
+   .buy-btn:hover{
+  background-color: #009961;
+  color: #fff;
+   }
+   .reck{
+  
+   
+    font-size: 13px;
+    padding: 3px 25px 6px 25px;
+    background: #edfbf0;
+    color: #009961;
+    border-radius: 50px;
+   }
+   .faq-img{
+   background-image: url(../img/faq.jpg);
+   height: 600px;
+   width: 100%;
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+   }
+   .submit-btn{
+    background: #009961;
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+    text-decoration: none;
+    /* margin-left: 250px; */
+   
+   }
+   .footer{
+    background: #0f0f0f;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding: 30px 0;
+
+   }
+   .text-itelic{
+font-style: italic;
+margin-top: 10px;
+
+   }
+   .coning{
+      font-size: 18px;
+    display: inline-block;
+    background: #009961;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+   }
+   .coning:hover{
+transform: rotate(360deg);
+
+   }
+   .footing{
+    text-decoration: none;
+    color: #fff;
+   }
